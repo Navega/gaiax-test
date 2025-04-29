@@ -6,7 +6,7 @@
     "id": "did:web:raw.githubusercontent.com:Navega:gaiax-test:main",
     "verificationMethod": [
       {
-        "id": "did:web:raw.githubusercontent.com:Navega:gaiax-test:main#{A unique ID for this verification method}",
+        "id": "did:web:raw.githubusercontent.com:Navega:gaiax-test:main#key-1",
         "type": "JsonWebKey2020",
         "publicKeyJwk": {
           "kty": "RSA",
