@@ -12,7 +12,7 @@
           "kty": "RSA",
           "n": "3-WtXWkExBZJFki4IHd9SFSPTnBiEHA_JUenWkgX04szU6lS-YSDtVizZMBJJv0TetmejMSxDcrA4MRnn_HI8n2p35ORm0XidRlGmPNUOlqXfKSaorph1OHbw6vULo8K5VZRrZkeGjSLi_nfQ6GpCnntbREUpi4HEVz-zATT6zCHw1IJzAA1rFxGYY0GrC-w-nhUqIW8aiBPBRMuKc7Mn92XHEsfVoEQBAPnS5DPMNF31tZZu_6-FEh6Ajhd07r6iAhFUdQbHY1lZ1DllvrRhD9Aqo0OCwEZNjyZURrgXihRZ0Y0f26_UTh_MeWSPW6ojDaRRxdzfAo_AcKMcnQ5KQ",
           "e": "AQAB",
-          "alg": "RS256",
+          "alg": "ES256",
           "x5u": "https://raw.githubusercontent.com/Navega:gaiax-test:main/public_key.pem"
         }
       }
